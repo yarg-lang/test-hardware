@@ -526,7 +526,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "manufacture/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -661,7 +661,7 @@
         "uuid": "a32f1a3b-1071-4a92-aebb-0de8ba86569c"
       }
     ],
-    "used_designators": "H1-4,Debug1,R1,#PWR1-3,A1-2,D1,SW1-3,J1",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [

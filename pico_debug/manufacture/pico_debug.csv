@@ -1,0 +1,6 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"A1, Debug1";"RaspberryPi_Pico_SMD_HandSolder";2;"RaspberryPi_Pico";;;
+2;"D1";"LED_D3.0mm";1;"LED";;;
+3;"Debug";"PinHeader_2x03_P2.54mm_Vertical";1;"Conn_02x03_Counter_Clockwise";;;
+4;"R1";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";1;"220R";;;
+5;"Reset, Reset Debug, SW3";"SW_PUSH_6mm";3;"SW_SPST";;;
